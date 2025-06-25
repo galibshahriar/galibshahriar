@@ -97,7 +97,7 @@
 it’s about delivering confidence in every release and scaling quality as a first-class engineering discipline.”</i>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=500&lines=Que Será, Será" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=500&lines=Que%20Ser%C3%A1%2C%20Ser%C3%A1" alt="Typing SVG" />
 </p>
 
 ---
