@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=500&lines=Quality+Engineering;Automation+for+Confidence+at+Scale;Testing+Reimagined+with+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Quality+Engineering+%7C+Systems+Architecture;Full-Stack+Automation+%7C+Production+Cryptography;Distributed+Systems+%7C+Cloud-Native+Infrastructure" alt="Typing SVG" />
 </p>
 
 
@@ -26,78 +26,132 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" style="vertical-align:middle"> About Me
 
 ```diff
-+ Hi, I’m Galib Shahriar, a Software Test Engineer at SELISE.
-+ I architect, scale, and maintain futuristic automation frameworks.
-+ My focus: Selenium, Java, Docker, and system resilience at enterprise scale.
-+ I believe: 🚀 Quality at scale is the future of engineering.
++ Hi, I'm Galib Shahriar, a Software Automation Engineer at SELISE.
++ I architect, scale, and maintain enterprise-grade automation ecosystems.
++ My focus: Full-stack automation, production cryptography, distributed systems, and GitOps.
++ I believe: Quality engineering is systems engineering at scale.
 ```
 
 ---
 
 ## 🦾  Technical Focus
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="24"> **Automation Frameworks**
-  - Modular, scalable Selenium architectures (Java-first)
-  - Unified web, mobile (Appium), and API automation engine
-  - Plugin-based execution & custom reporting
+- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="24"> **Enterprise Automation Ecosystems**
+  - Backend automation engine: Java + TypeScript/Node.js architecture
+  - Unified UI (Selenium), Mobile (Appium), API (RestAssured), and Kafka automation
+  - Multi-tenant platform with real-time execution monitoring and advanced reporting
+  - AI tool development with Model Context Protocol (MCP) integration
 
-- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24"> **Next-Gen CI/CD & Infra**
-  - Self-healing, dockerized pipelines
-  - Full GitOps automation for test infra
-  - CI/CD with real-time reporting, artifact streaming
+- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24"> **Production Cryptography & Security**
+  - End-to-end encryption systems with three-layer cryptography
+  - AES-GCM content encryption, RSA key encryption, ECDSA digital signatures
+  - CloudEvents-compliant secure messaging for distributed systems
 
-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="24"> **Mission-Critical Test Strategy**
-  - E2E, regression, cross-browser/device, edge-case validation
-  - Manual exploratory + automated acceptance for critical releases
+- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="24"> **Distributed Systems & Event-Driven Architecture**
+  - Kafka integration for event-driven testing with PRODUCE/CONSUME workflows
+  - Message filtering, variable capture, and cross-step data sharing
+  - Secure routing with ordering guarantees for business process flows
 
-- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"> **Technical Enablement & Docs**
-  - Onboarding guides, architecture docs, best-practice playbooks
-  - Rapid enablement for QA/eng teams
+- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"> **CI/CD & Deployment Automation**
+  - GitHub Actions workflows for automated build and deployment pipelines
+  - Docker containerization with automated image builds and versioning
+  - GitOps workflow integration for continuous delivery
+  - Deployment management with zero-downtime strategies
 
-- <img src="https://media.giphy.com/media/UAHZijO91QCl2/giphy.gif" width="24"> **Cross-Team Collaboration**
-  - Roadmap planning, live demos, cross-discipline delivery
+- <img src="https://media.giphy.com/media/UAHZijO91QCl2/giphy.gif" width="24"> **Technical Leadership & Enablement**
+  - Comprehensive architecture documentation with visual diagrams
+  - Migration guides, troubleshooting procedures, and API references
+  - Cross-team collaboration and reusable platform components
+  - Rapid enablement through onboarding and best-practice playbooks
 
 ---
 
 ## 🧬 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,docker,githubactions,kubernetes,git,markdown,figma,github,maven,postman" />
+  <img src="https://skillicons.dev/icons?i=java,angular,typescript,selenium,docker,kafka,spring,githubactions,git,maven,npm,postman" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer&text=Java%20|%20Selenium%20|%20Appium%20|%20Docker%20|%20GitOps%20|%20CI/CD%20|%20Postman&fontAlign=50&fontSize=16&fontColor=ffffff&animation=twinkling" alt="stack capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer&text=Java%20|%20Angular%20|%20Selenium%20|%20Appium%20|%20Kafka%20|%20Docker%20|%20GitOps%20|%20Cryptography&fontAlign=50&fontSize=14&fontColor=ffffff&animation=twinkling" alt="stack capsule" />
 </p>
+
+### Core Technologies
+
+<table>
+<tr>
+<td width="50%">
+
+#### Backend & Automation
+`Java` `Node.js/TypeScript` `Spring Boot`  
+`Selenium` `Appium` `RestAssured`  
+`Apache Kafka` `Jackson` `Logback`
+
+#### Cryptography & Security
+`AES-GCM` `RSA` `ECDSA`  
+`Bouncy Castle` `CloudEvents`
+
+</td>
+<td width="50%">
+
+#### AI & Integration
+`Google Gemini AI` `MCP Protocol`  
+`Server-Sent Events` `JSON-RPC`  
+`AI Tool Development`
+
+#### DevOps & Testing
+`Docker` `GitHub Actions` `GitOps`  
+`Maven` `npm` `ExtentReports`  
+`JUnit` `TestNG` `Postman`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌟 Projects & Impact
 
-- **Unified Automation Engine**  
-  → Web, mobile, backend API automation under one extensible platform  
-  → Plugin-ready, advanced reporting, custom code execution
+- **Enterprise Automation Platform**  
+  → Test automation platform with Java execution engine and TypeScript tooling  
+  → Multi-tenant architecture with complete organization isolation  
+  → Unified UI, Mobile, API, and Kafka automation under one extensible framework  
+  → Real-time execution monitoring, advanced reporting, and AI tool integration
 
-- **Self-Healing Test Pipelines**  
-  → Dockerized, auto-scaling CI/CD, artifact management  
-  → GitOps-driven deployment, infra as code
+- **Production Cryptographic Framework**  
+  → End-to-end encryption system for secure message exchange  
+  → Three-layer cryptography: AES-GCM, RSA, and ECDSA digital signatures  
+  → Standalone Maven package with zero coupling, reusable across teams  
+  → Passed critical security audits and enabled new business partnerships
 
-- **Technical Enablement**  
-  → Authored onboarding, architecture, and best-practice docs  
-  → Drove QA adoption across product teams
+- **CI/CD Pipeline & Deployment Automation**  
+  → GitHub Actions workflows for automated build, test, and deployment  
+  → Docker containerization with automated image builds and versioning  
+  → GitOps workflow integration for continuous delivery and deployment tracking  
+  → Deployment management with zero-downtime strategies and rollback capabilities
 
-- **Strategic QA Leadership**  
-  → E2E test strategy, coverage planning, regression & edge-case validation  
-  → Enabled rapid, confident releases for business-critical platforms
+- **Event-Driven Testing with Kafka**  
+  → Complete Kafka automation: PRODUCE/CONSUME workflows with JSONPath filtering  
+  → Variable capture, cross-step data sharing, security support (SASL, SSL, mTLS)  
+  → Seamless integration with encrypted messaging systems  
+  → End-to-end event flow validation for distributed architectures
+
+- **Technical Leadership & Documentation**  
+  → Comprehensive architecture documentation with animated visual diagrams  
+  → Migration guides, troubleshooting procedures, and API references  
+  → Enabled rapid team onboarding and cross-functional collaboration  
+  → Built reusable platform components reducing development time
 
 ---
 
-## <img src="https://media.giphy.com/media/3qj3VtNL2nhmw/giphy.gif" width="80" alt="Automation gif"/> Automation Philosophy
+## <img src="https://media.giphy.com/media/3qj3VtNL2nhmw/giphy.gif" width="80" alt="Automation gif"/> Engineering Philosophy
 
-> <i>“Automation isn’t just about coverage<br>
-it’s about delivering confidence in every release and scaling quality as a first-class engineering discipline.”</i>
+> <i>"Quality engineering is systems engineering.<br>
+Modern automation validates not just functionality, but the security guarantees,<br>
+cryptographic integrity, and distributed system behaviors that make functionality meaningful."</i>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=500&lines=Que%20Ser%C3%A1%2C%20Ser%C3%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Beyond+Test+Scripts;Building+Production+Systems;Cryptography+%7C+Architecture+%7C+Scale" alt="Typing SVG" />
 </p>
 
 ---
