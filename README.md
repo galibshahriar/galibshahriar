@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=700&lines=Automation+Specialist+%7C+SELISE+INB;Multi-Surface+Automation+Ecosystems;Desktop+%7C+Web+%7C+Mobile+%7C+API+%7C+AI;10+Repos+%C2%B7+1000%2B+Commits+%C2%B7+5+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Quality+Engineering+%7C+Systems+Architecture;Full-Stack+Automation+%7C+AI+%26+Desktop;Cloud+%7C+Web+%7C+Mobile+%7C+Browser+%7C+Native" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" style="vertical-align:middle"> About Me
 
 ```diff
-+ I started as an intern who got curious about a problem nobody had fully solved.
-+ That curiosity became AUTOM — an official SELISE product, live on the company website.
-+ I work across cloud, web, mobile, browser, desktop, and AI.
-+ Usually learning the stack and shipping production code at the same time.
++ I'm Galib Shahriar, an Automation Engineer at SELISE.
++ I architect, scale, and maintain enterprise-grade automation ecosystems.
++ My focus: multi-surface automation, AI tooling, production security, and cloud-native infrastructure.
++ I believe: quality engineering is systems engineering at scale.
 ```
 
 ---
@@ -36,34 +36,34 @@
 ## 🦾 Technical Focus
 
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="24"> **Multi-Surface Automation Ecosystems**
-  - AUTOM platform: 5 products, 10 repositories, 1000+ commits — officially recognised SELISE product
-  - Unified coverage: UI (Selenium/Playwright), Mobile (Appium), API (RestAssured), Kafka, SOAP, mTLS, Desktop
-  - Chrome Extension recorder (MV3 + Preact) with API capture and AI-assisted authoring in progress
-  - Desktop automation engine: Tauri + .NET + FlaUI + RT-DETR-R18 ONNX (PoC delivered to Inventx)
+  - AUTOM platform: cloud execution engine, web portal, report engine, browser recorder, desktop agent
+  - Unified coverage: UI (Selenium/Playwright), Mobile (Appium), API (RestAssured), Kafka, SOAP, mTLS
+  - Chrome Extension recorder (MV3 + Preact) with API capture tab
+  - Desktop automation engine: Tauri + .NET + FlaUI + RT-DETR-R18 ONNX
 
 - <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24"> **AI & Intelligent Tooling**
-  - AI-powered visual element detection using ONNX (RT-DETR-R18) for desktop automation fallback
-  - Model Context Protocol (MCP) connector integration for LLM-based tool development
-  - AI-assisted test step generation layer — removing manual recording from the authoring flow
-  - Self-healing locators that adapt to UI changes across web and desktop surfaces
+  - AI-powered visual element detection using ONNX for desktop automation fallback
+  - Model Context Protocol (MCP) connector for LLM-based tool development
+  - AI-assisted test step generation — removing manual recording from the authoring flow
+  - Self-healing locators that adapt to UI changes across web and desktop
 
 - <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="24"> **Production Security & Cryptography**
-  - Three-layer cryptography: AES-GCM content encryption, RSA key encryption, ECDSA digital signatures
-  - GDPR-compliant structured logging with SecretMaskingUtil and SLF4J MDC
-  - DPAPI + master-password KEK, mTLS loopback, HMAC-chained audit log (desktop engine)
+  - Three-layer cryptography: AES-GCM, RSA key encryption, ECDSA digital signatures
+  - GDPR-compliant structured logging with secret masking and SLF4J MDC
+  - DPAPI, mTLS loopback, HMAC-chained audit log
   - CloudEvents-compliant secure messaging for distributed systems
 
 - <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"> **CI/CD & Cloud-Native Infrastructure**
   - Harbor/ORAS artifact pipelines with signed, versioned releases
-  - GitHub Actions across all 10 repositories; Git LFS for model artifacts
-  - Kubernetes, Rancher, GitOps, Docker — zero-downtime deployment strategies
-  - NSIS + WIX MSI enterprise installer pipelines for desktop distribution
+  - GitHub Actions, Kubernetes, Rancher, GitOps, Docker across all repositories
+  - Git LFS for model artifact management
+  - Enterprise installer pipelines: NSIS + WIX MSI
 
 - <img src="https://media.giphy.com/media/UAHZijO91QCl2/giphy.gif" width="24"> **Product Design & Technical Leadership**
-  - Designed the UI/UX blueprint for the full AUTOM platform — currently in production use
-  - CXO-level stakeholder demos for Inventx, INB leadership, and EcoHub
-  - Architecture documentation, ADRs, runbooks, and onboarding guides across all repositories
-  - Led EcoHub's full backend automation integration — 80% test coverage, regression in minutes
+  - Designed the UI/UX blueprint for the AUTOM platform — currently in production use
+  - CXO-level stakeholder demonstrations and client-facing technical delivery
+  - Architecture documentation, ADRs, runbooks, and onboarding guides
+  - Cross-functional delivery across backend, frontend, and automation layers simultaneously
 
 ---
 
@@ -92,7 +92,7 @@
 #### Desktop & Native
 `FlaUI 5 (UIA3)` `Java Access Bridge`
 `OpenCvSharp4` `ONNX Runtime`
-`SQLite (WAL, AES-256-GCM)` `FluentMigrator`
+`SQLite (AES-256-GCM)` `FluentMigrator`
 
 </td>
 <td width="50%">
@@ -115,33 +115,30 @@
 
 ## 🌟 Projects & Impact
 
-- **AUTOM — Multi-Surface Automation Platform** *(Official SELISE Product)*
-  → Five products spanning cloud, web, browser, desktop, and report engine
-  → 10 repositories · 1000+ commits · 13+ production releases (v9.3.x → v9.4.6)
-  → Covers UI, Mobile, API, Kafka, SOAP, mTLS, and desktop in a single ecosystem
-  → Featured on SELISE Group website with active client demand
+- **AUTOM — Multi-Surface Automation Platform**
+  → Five products: cloud engine, web portal, report engine, browser recorder, desktop agent
+  → Unified automation across UI, Mobile, API, Kafka, SOAP, mTLS, and desktop
+  → Official SELISE product, featured on the company website with active client demand
 
-- **Desktop Automation Engine — PoC for Inventx**
-  → Tauri 2 + .NET 9 + FlaUI (UIA3) + Java Access Bridge for any Windows application
-  → AI-powered visual fallback using RT-DETR-R18 ONNX when accessibility locators unavailable
-  → Self-healing locators, HMAC-chained audit log, mTLS loopback security
-  → 634 tests passing · full CI/CD · enterprise installer (NSIS + WIX MSI)
+- **Desktop Automation Engine**
+  → Tauri 2 + .NET 9 + FlaUI (UIA3) + Java Access Bridge — automates any Windows application
+  → AI-powered visual fallback using RT-DETR-R18 ONNX for inaccessible UI elements
+  → Self-healing locators, HMAC-chained audit log, mTLS loopback, enterprise installer
 
 - **Chrome Extension Recorder**
   → MV3 service worker architecture with Preact UI and persistent state
   → Records UI interactions and API calls, publishes as structured test suites
-  → API capture tab with per-call configuration and OPTIONS filtering
   → AI-assisted step generation layer in active R&D
-
-- **EcoHub Backend Automation Integration**
-  → Led end-to-end integration of EcoHub's backend into the AUTOM platform
-  → 80% test coverage achieved — full regression cycle now runs in minutes
-  → Delivered as a standalone published GitHub package
 
 - **Production Cryptographic Framework**
   → Three-layer cryptography: AES-GCM, RSA, ECDSA digital signatures
   → Standalone Maven package, zero coupling, reusable across teams
   → Passed critical security audits; enabled new business partnerships
+
+- **Event-Driven Testing with Kafka**
+  → PRODUCE/CONSUME workflows with JSONPath filtering and variable capture
+  → Security support: SASL, SSL, mTLS — end-to-end event flow validation
+  → Seamless integration with encrypted, distributed messaging systems
 
 ---
 
@@ -153,7 +150,7 @@ And I made sure it is not just another tool — it has infrastructure, it execut
 it persists, it scales across real devices, real protocols, real enterprise environments."</i>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=650&lines=Beyond+Test+Scripts;Building+Production+Systems;Cloud+%7C+Desktop+%7C+AI+%7C+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Beyond+Test+Scripts;Building+Production+Systems;Cryptography+%7C+Architecture+%7C+Scale" alt="Typing SVG" />
 </p>
 
 ---
@@ -167,5 +164,5 @@ it persists, it scales across real devices, real protocols, real enterprise envi
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7c7c,100:3a8dde&height=110&section=footer&text=Automation+Specialist+%7C+SELISE+INB&fontAlign=50&fontSize=22&fontColor=F3F8FF&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7c7c,100:3a8dde&height=110&section=footer&text=Quality%20Engineering%20Futurist&fontAlign=50&fontSize=24&fontColor=F3F8FF&animation=twinkling" alt="footer" />
 </p>
