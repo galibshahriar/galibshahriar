@@ -1,1 +1,77 @@
-PHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vY2Fwc3VsZS1yZW5kZXIudmVyY2VsLmFwcC9hcGk/dHlwZT13YXZpbmcmY29sb3I9MDowZjBmMGYsMTAwOjFhMWEyZSZoZWlnaHQ9MTgwJnNlY3Rpb249aGVhZGVyJnRleHQ9R2FsaWIlMjBTaGFocmlhciZmb250QWxpZ249NTAmZm9udFNpemU9NDgmZm9udENvbG9yPWUyZThkMCZhbmltYXRpb249ZmFkZUluJmRlc2M9QXV0b21hdGlvbiUyMEVuZ2luZWVyJTIwJTdDJTIwU0VMSVNFJTIwSU5CJmRlc2NBbGlnbj01MCZkZXNjQWxpZ25ZPTc1JmRlc2NTaXplPTE2JmRlc2NDb2xvcj05NGEzYjgiIC8+CjwvcD4KCjxici8+CgpJIHN0YXJ0ZWQgYXMgYW4gaW50ZXJuIHdobyBnb3QgY3VyaW91cyBhYm91dCBhIHByb2JsZW0gbm9ib2R5IGhhZCBmdWxseSBzb2x2ZWQuCgpUaGF0IGN1cmlvc2l0eSB0dXJuZWQgaW50byBhbiBhdXRvbWF0aW9uIHBsYXRmb3JtIOKAlCBub3cgYW4gb2ZmaWNpYWwgU0VMSVNFIHByb2R1Y3QsIG9uIHRoZSBjb21wYW55IHdlYnNpdGUsIHdpdGggYSBuYW1lLCBjbGllbnRzLCBhbmQgYSByb2FkbWFwLiBJIGRpZG4ndCBwbGFuIGZvciB0aGF0LiBJIGp1c3Qga2VwdCBzYXlpbmcgeWVzIHRvIHRoZSBuZXh0IHByb2JsZW0uCgpUb2RheSBJIHdvcmsgYWNyb3NzIGNsb3VkLCB3ZWIsIG1vYmlsZSwgYnJvd3Nlciwgb3JkZXNrdG9wLCBhbmQgQUkg4oCUIHVzdWFsbHkgbGVhcm5pbmcgdGhlIHN0YWNrIGFuZCBzaGlwcGluZyBwcm9kdWN0aW9uIGNvZGUgYXQgdGhlIHNhbWUgdGltZS4KCi0tLQoKPGRldGFpbHM+CjxzdW1tYXJ5Pjxzdm9uZz7wn5qAIFdoYXQgSSdtIGJ1aWxkaW5nPC9zdHJvbmc+PC9zdW1tYXJ5PgoKPGJyLz4KCioqQVVUT00qKiDigJQgQSBtdWx0aS1zdXJmYWNlIHRlc3QgYXV0b21hdGlvbiBlY29zeXN0ZW0gYXQgU0VMSVNFIElOQi4gIApGaXZlIHByb2R1Y3RzLiBUZW4gcmVwb3NpdG9yaWVzLiBPbmUgcGVyc29uIHRvIHN0YXJ0LgoKfCBQcm9kdWN0IHwgV2hhdCBpdCBkb2VzIHwKfC0tLXwtLS18CnwgQ2xvdWQgRW5naW5lIHwgSmF2YSArIFNwcmluZyBleGVjdXRpb24gY29yZSDigJQgVUksIE1vYmlsZSwgQVBJLCBLYWZrYSwgU09BUCwgbVRMUyB8CnwgV2ViIEludGVyZmFjZSB8IEFuZ3VsYXIgMTkgcG9ydGFsIHwgMTg5KyBQUnMgbWVyZ2VkLCB2NS4xLjAgfAp8IFJlcG9ydCBFbmdpbmUgfCBCcmFuZGVkIEhUTUwgcmVwb3J0cyB3aXRoIGFuaW1hdGVkIHN1bW1hcmllcywgTWF2ZW4gYXJ0aWZhY3QgfAp8IENocm9tZSBSZWNvcmRlciB8IE1WMyBleHRlbnNpb24sIFByZWFjdCBVSSwgQVBJIGNhcHR1cmUgdGFiLCBBSSBsYXllciBpbiBwcm9ncmVzcyB8CnwgRGVza3RvcCBFbmdpbmUgfCBUYXVyaSArIC5ORVQgKyBGbGFVSSArIFJULURFVFItUjE4IE9OTlggKFBvQyBmb3IgSW52ZW50eCkgfAoKPC9kZXRhaWxzPgoKPGRldGFpbHM+CjxzdW1tYXJ5Pjxzdm9uZz7wn9qGIFRlY2ggSSd2ZSB3b3JrZWQgd2l0aCB0aGlzIHllYXI8L3N0cm9uZz48L3N1bW1hcnk+Cgo8YnIvPgoKYGBgCkphdmEgwrcgVHlwZVNjcmlwdCDCtyBDIy8uTkVUIMK3IEFuZ3VsYXIgwrcgUmVhY3QgwrcgUnVzdCAoVGF1cmkpCgpTZWxlbml1bSDCtyBBcHBpdW0gwrcgUGxheXdyaWdodCDCtyBSZXN0QXNzdXJlZCDCtyBLYWZrYSDCtyBTT0FQIMK3IG1UTFMKRE9ja2VyIMK3IEt1YmVybmV0ZXMgwrcgR2l0SHViIEFjdGlvbnMgwrcgSGFyYm9yIMK3IE9SQVMgwrcgUmFuY2hlciDCtyBHaXRPcHMKT05OWCDCtyBNQ1AgwrcgQ2xvdWRFdmVudHMgwrcgTExNIHRvb2xpbmcgwrcgQ2hyb21lIEV4dGVuc2lvbnMgKE1WMykKYGBgCgo8L2RldGFpbHM+Cgo8ZGV0YWlscz4KPHN1bW1hcnk+PHN0cm9uZz7wn9W4IEhvdyBJIHdvcms8L3N0cm9uZz48L3N1bW1hcnk+Cgo8YnIvPgoKSSBkb24ndCBwcm90b3R5cGUgYW5kIGNsZWFuIHVwIGxhdGVyLiBVbml0IHRlc3RzLCBpbnRlZ3JhdGlvbiB0ZXN0cywgQ0kvQ0QsIGFuZCBzdHJ1Y3R1cmVkIGRvY3MgZ28gaW4gZnJvbSBjb21taXQgb25lLiBOb3QgYmVjYXVzZSBJIHdhcyB0b2xkIHRvIOKAlCBiZWNhdXNlIGFueXRoaW5nIGxlc3MgY3JlYXRlcyBwcm9ibGVtcyBmb3IgZnV0dXJlLW1lLgoKSSd2ZSBzaGlwcGVkIHByb2R1Y3Rpb24gY3J5cHRvZ3JhcGh5IChBRVMtR0NNLCBSU0EsIEVDRFNBKSwgZXZlbnQtZHJpdmVuIHRlc3QgZmxvd3Mgb3ZlciBLYWZrYSwgR2l0T3BzIHBpcGVsaW5lcywgYW5kIGFuIEFJLXBvd2VyZWQgdmlzdWFsIGZhbGxiYWNrIGZvciBkZXNrdG9wIFVJIGF1dG9tYXRpb24uIEkndmUgYWxzbyBkZW1vZWQgYWxsIG9mIGl0IHRvIENYT3MuCgo8L2RldGFpbHM+CgotLS0KCj4gKkkgdG9vayB3aGF0IHRoZSBwcm9ibGVtcyByZXF1aXJlZCBhbmQga2VwdCBzYXlpbmcgeWVzIHRvIHRoZSBuZXh0IHByb2JsZW0uKgoKLS0tCgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJtYWlsdG86Z2FsaWIuc2hhaHJpYXJAc2VsaXNlZ3JvdXAuY29tIj4KICAgIDxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0VtYWlsLWdhbGliLnNoYWhyaWFyLTBmMTcyYT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdtYWlsJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CiAgJm5ic3A7CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2dhbGlicy8iPgogICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGlua2VkSW4tZ2FsaWJzLTBmMTcyYT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWxpbmtlZGluJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CjwvcD4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPTA6MWExYTJlLDEwMDowZjBmMGYmaGVpZ2h0PTEwMCZzZWN0aW9uPWZvb3RlciZmb250Q29sb3I9OTRhM2I4IiAvPgo8L3A+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Galib%20Shahriar&fontAlign=50&fontSize=48&fontColor=e2e8f0&animation=fadeIn&desc=Automation%20Engineer%20%7C%20SELISE%20INB&descAlign=50&descAlignY=75&descSize=16&descColor=94a3b8" />
+</p>
+
+<br/>
+
+I started as an intern who got curious about a problem nobody had fully solved.
+
+That curiosity turned into an automation platform — now an official SELISE product, on the company website, with a name, clients, and a roadmap. I didn't plan for that. I just kept saying yes to the next problem.
+
+Today I work across cloud, web, mobile, browser, desktop, and AI — usually learning the stack and shipping production code at the same time.
+
+---
+
+<details>
+<summary><strong>🚀 What I'm building</strong></summary>
+
+<br/>
+
+**AUTOM** — A multi-surface test automation ecosystem at SELISE INB.  
+Five products. Ten repositories. One person to start.
+
+| Product | What it does |
+|---|---|
+| Cloud Engine | Java + Spring execution core — UI, Mobile, API, Kafka, SOAP, mTLS |
+| Web Interface | Angular 19 portal — 189+ PRs merged, v5.1.0 |
+| Report Engine | Branded HTML reports with animated summaries, Maven artifact |
+| Chrome Recorder | MV3 extension, Preact UI, API capture tab, AI layer in progress |
+| Desktop Engine | Tauri + .NET + FlaUI + RT-DETR-R18 ONNX (PoC for Inventx) |
+
+</details>
+
+<details>
+<summary><strong>🛠 Tech I've worked with this year</strong></summary>
+
+<br/>
+
+```
+Java · TypeScript · C#/.NET · Angular · React · Rust (Tauri)
+
+Selenium · Appium · Playwright · RestAssured · Kafka · SOAP · mTLS
+Docker · Kubernetes · GitHub Actions · Harbor · ORAS · Rancher · GitOps
+ONNX · MCP · CloudEvents · LLM tooling · Chrome Extensions (MV3)
+```
+
+</details>
+
+<details>
+<summary><strong>🔥 How I work</strong></summary>
+
+<br/>
+
+I don't prototype and clean up later. Unit tests, integration tests, CI/CD, and structured docs go in from commit one. Not because I was told to — because anything less creates problems for future-me.
+
+I've shipped production cryptography (AES-GCM, RSA, ECDSA), event-driven test flows over Kafka, GitOps pipelines, and an AI-powered visual fallback for desktop UI automation. I've also demoed all of it to CXOs.
+
+</details>
+
+---
+
+> *I took what the problems required and kept saying yes to the next problem.*
+
+---
+
+<p align="center">
+  <a href="mailto:galib.shahriar@selisegroup.com">
+    <img src="https://img.shields.io/badge/Email-galib.shahriar-0f172a?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/galibs/">
+    <img src="https://img.shields.io/badge/LinkedIn-galibs-0f172a?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer&fontColor=94a3b8" />
+</p>
