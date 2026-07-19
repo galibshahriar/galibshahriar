@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Quality+Engineering+%7C+Systems+Architecture;Full-Stack+Automation+%7C+Production+Cryptography;Distributed+Systems+%7C+Cloud-Native+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Quality+Engineering+%7C+Systems+Architecture;Full-Stack+Automation+%7C+AI+%26+Desktop;Cloud+%7C+Web+%7C+Mobile+%7C+Browser+%7C+Native" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <a href="mailto:galib.shahriar@selisegroup.com">
@@ -26,54 +25,56 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" style="vertical-align:middle"> About Me
 
 ```diff
-+ Hi, I'm Galib Shahriar, a Software Automation Engineer at SELISE.
++ I'm Galib Shahriar, an Automation Engineer at SELISE.
 + I architect, scale, and maintain enterprise-grade automation ecosystems.
-+ My focus: Full-stack automation, production cryptography, distributed systems, and GitOps.
-+ I believe: Quality engineering is systems engineering at scale.
++ My focus: multi-surface automation, AI tooling, production security, and cloud-native infrastructure.
++ I believe: quality engineering is systems engineering at scale.
 ```
 
 ---
 
-## 🦾  Technical Focus
+## 🦾 Technical Focus
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="24"> **Enterprise Automation Ecosystems**
-  - Backend automation engine: Java + TypeScript/Node.js architecture
-  - Unified UI (Selenium), Mobile (Appium), API (RestAssured), and Kafka automation
-  - Multi-tenant platform with real-time execution monitoring and advanced reporting
-  - AI tool development with Model Context Protocol (MCP) integration
+- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="24"> **Multi-Surface Automation Ecosystems**
+  - AUTOM platform: cloud execution engine, web portal, report engine, browser recorder, desktop agent
+  - Unified coverage: UI (Selenium/Playwright), Mobile (Appium), API (RestAssured), Kafka, SOAP, mTLS
+  - Chrome Extension recorder (MV3 + Preact) with API capture tab
+  - Desktop automation engine: Tauri + .NET + FlaUI + RT-DETR-R18 ONNX
 
-- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24"> **Production Cryptography & Security**
-  - End-to-end encryption systems with three-layer cryptography
-  - AES-GCM content encryption, RSA key encryption, ECDSA digital signatures
+- <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="24"> **AI & Intelligent Tooling**
+  - AI-powered visual element detection using ONNX for desktop automation fallback
+  - Model Context Protocol (MCP) connector for LLM-based tool development
+  - AI-assisted test step generation — removing manual recording from the authoring flow
+  - Self-healing locators that adapt to UI changes across web and desktop
+
+- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="24"> **Production Security & Cryptography**
+  - Three-layer cryptography: AES-GCM, RSA key encryption, ECDSA digital signatures
+  - GDPR-compliant structured logging with secret masking and SLF4J MDC
+  - DPAPI, mTLS loopback, HMAC-chained audit log
   - CloudEvents-compliant secure messaging for distributed systems
 
-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="24"> **Distributed Systems & Event-Driven Architecture**
-  - Kafka integration for event-driven testing with PRODUCE/CONSUME workflows
-  - Message filtering, variable capture, and cross-step data sharing
-  - Secure routing with ordering guarantees for business process flows
+- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"> **CI/CD & Cloud-Native Infrastructure**
+  - Harbor/ORAS artifact pipelines with signed, versioned releases
+  - GitHub Actions, Kubernetes, Rancher, GitOps, Docker across all repositories
+  - Git LFS for model artifact management
+  - Enterprise installer pipelines: NSIS + WIX MSI
 
-- <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="24"> **CI/CD & Deployment Automation**
-  - GitHub Actions workflows for automated build and deployment pipelines
-  - Docker containerization with automated image builds and versioning
-  - GitOps workflow integration for continuous delivery
-  - Deployment management with zero-downtime strategies
-
-- <img src="https://media.giphy.com/media/UAHZijO91QCl2/giphy.gif" width="24"> **Technical Leadership & Enablement**
-  - Comprehensive architecture documentation with visual diagrams
-  - Migration guides, troubleshooting procedures, and API references
-  - Cross-team collaboration and reusable platform components
-  - Rapid enablement through onboarding and best-practice playbooks
+- <img src="https://media.giphy.com/media/UAHZijO91QCl2/giphy.gif" width="24"> **Product Design & Technical Leadership**
+  - Designed the UI/UX blueprint for the AUTOM platform — currently in production use
+  - CXO-level stakeholder demonstrations and client-facing technical delivery
+  - Architecture documentation, ADRs, runbooks, and onboarding guides
+  - Cross-functional delivery across backend, frontend, and automation layers simultaneously
 
 ---
 
 ## 🧬 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,angular,typescript,selenium,docker,kafka,spring,githubactions,git,maven,npm,postman" />
+  <img src="https://skillicons.dev/icons?i=java,angular,typescript,cs,react,rust,selenium,docker,kafka,spring,githubactions,git,kubernetes,maven,npm,postman" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer&text=Java%20|%20Angular%20|%20Selenium%20|%20Appium%20|%20Kafka%20|%20Docker%20|%20GitOps%20|%20Cryptography&fontAlign=50&fontSize=14&fontColor=ffffff&animation=twinkling" alt="stack capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer&text=Java%20|%20TypeScript%20|%20C%23%2F.NET%20|%20Angular%20|%20React%20|%20Rust%20|%20Kafka%20|%20ONNX%20|%20MCP%20|%20GitOps&fontAlign=50&fontSize=13&fontColor=ffffff&animation=twinkling" alt="stack capsule" />
 </p>
 
 ### Core Technologies
@@ -82,27 +83,29 @@
 <tr>
 <td width="50%">
 
-#### Backend & Automation
-`Java` `Node.js/TypeScript` `Spring Boot`  
-`Selenium` `Appium` `RestAssured`  
-`Apache Kafka` `Jackson` `Logback`
+#### Backend & Automation Engine
+`Java` `Spring Boot` `TypeScript/Node.js`
+`C#/.NET 9` `Rust (Tauri 2)`
+`Selenium` `Appium` `Playwright` `RestAssured`
+`Apache Kafka` `SOAP` `mTLS` `CloudEvents`
 
-#### Cryptography & Security
-`AES-GCM` `RSA` `ECDSA`  
-`Bouncy Castle` `CloudEvents`
+#### Desktop & Native
+`FlaUI 5 (UIA3)` `Java Access Bridge`
+`OpenCvSharp4` `ONNX Runtime`
+`SQLite (AES-256-GCM)` `FluentMigrator`
 
 </td>
 <td width="50%">
 
 #### AI & Integration
-`Google Gemini AI` `MCP Protocol`  
-`Server-Sent Events` `JSON-RPC`  
-`AI Tool Development`
+`RT-DETR-R18 ONNX` `MCP Protocol`
+`LLM tooling` `Chrome Extensions (MV3)`
+`Preact` `Server-Sent Events` `JSON-RPC`
 
-#### DevOps & Testing
-`Docker` `GitHub Actions` `GitOps`  
-`Maven` `npm` `ExtentReports`  
-`JUnit` `TestNG` `Postman`
+#### DevOps & Infrastructure
+`Docker` `Kubernetes` `Rancher` `Harbor` `ORAS`
+`GitHub Actions` `GitOps` `Git LFS`
+`Maven` `npm` `JUnit` `TestNG` `Vitest`
 
 </td>
 </tr>
@@ -112,43 +115,39 @@
 
 ## 🌟 Projects & Impact
 
-- **Enterprise Automation Platform**  
-  → Test automation platform with Java execution engine and TypeScript tooling  
-  → Multi-tenant architecture with complete organization isolation  
-  → Unified UI, Mobile, API, and Kafka automation under one extensible framework  
-  → Real-time execution monitoring, advanced reporting, and AI tool integration
+- **AUTOM — Multi-Surface Automation Platform**
+  → Five products: cloud engine, web portal, report engine, browser recorder, desktop agent
+  → Unified automation across UI, Mobile, API, Kafka, SOAP, mTLS, and desktop
+  → Official SELISE product, featured on the company website with active client demand
 
-- **Production Cryptographic Framework**  
-  → End-to-end encryption system for secure message exchange  
-  → Three-layer cryptography: AES-GCM, RSA, and ECDSA digital signatures  
-  → Standalone Maven package with zero coupling, reusable across teams  
-  → Passed critical security audits and enabled new business partnerships
+- **Desktop Automation Engine**
+  → Tauri 2 + .NET 9 + FlaUI (UIA3) + Java Access Bridge — automates any Windows application
+  → AI-powered visual fallback using RT-DETR-R18 ONNX for inaccessible UI elements
+  → Self-healing locators, HMAC-chained audit log, mTLS loopback, enterprise installer
 
-- **CI/CD Pipeline & Deployment Automation**  
-  → GitHub Actions workflows for automated build, test, and deployment  
-  → Docker containerization with automated image builds and versioning  
-  → GitOps workflow integration for continuous delivery and deployment tracking  
-  → Deployment management with zero-downtime strategies and rollback capabilities
+- **Chrome Extension Recorder**
+  → MV3 service worker architecture with Preact UI and persistent state
+  → Records UI interactions and API calls, publishes as structured test suites
+  → AI-assisted step generation layer in active R&D
 
-- **Event-Driven Testing with Kafka**  
-  → Complete Kafka automation: PRODUCE/CONSUME workflows with JSONPath filtering  
-  → Variable capture, cross-step data sharing, security support (SASL, SSL, mTLS)  
-  → Seamless integration with encrypted messaging systems  
-  → End-to-end event flow validation for distributed architectures
+- **Production Cryptographic Framework**
+  → Three-layer cryptography: AES-GCM, RSA, ECDSA digital signatures
+  → Standalone Maven package, zero coupling, reusable across teams
+  → Passed critical security audits; enabled new business partnerships
 
-- **Technical Leadership & Documentation**  
-  → Comprehensive architecture documentation with animated visual diagrams  
-  → Migration guides, troubleshooting procedures, and API references  
-  → Enabled rapid team onboarding and cross-functional collaboration  
-  → Built reusable platform components reducing development time
+- **Event-Driven Testing with Kafka**
+  → PRODUCE/CONSUME workflows with JSONPath filtering and variable capture
+  → Security support: SASL, SSL, mTLS — end-to-end event flow validation
+  → Seamless integration with encrypted, distributed messaging systems
 
 ---
 
 ## <img src="https://media.giphy.com/media/3qj3VtNL2nhmw/giphy.gif" width="80" alt="Automation gif"/> Engineering Philosophy
 
-> <i>"Quality engineering is systems engineering.<br>
-Modern automation validates not just functionality, but the security guarantees,<br>
-cryptographic integrity, and distributed system behaviors that make functionality meaningful."</i>
+> <i>"I took what the problems required and kept saying yes to the next problem.<br>
+Commit after commit. Version after version. Problem after problem.<br>
+And I made sure it is not just another tool — it has infrastructure, it executes,<br>
+it persists, it scales across real devices, real protocols, real enterprise environments."</i>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=3A8DDE&center=true&vCenter=true&width=600&lines=Beyond+Test+Scripts;Building+Production+Systems;Cryptography+%7C+Architecture+%7C+Scale" alt="Typing SVG" />
